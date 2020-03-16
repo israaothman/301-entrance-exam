@@ -1,0 +1,44 @@
+body{
+    height: 100%;
+    width: 100%;
+    /* position: relative; */
+    font-family: 'Roboto', sans-serif;
+}
+
+
+header{
+    height: 80px;
+    width: 100%;
+    top: 0;
+    background-color: #6d8adbc7;
+    text-align: center;
+}
+h1{
+    font-size: 46px;
+}
+
+h2{
+    text-align: center;
+}
+main{
+    margin: 50px auto
+}
+
+.formDiv{
+background-color: #dae4ff;
+width: 500px;
+padding: 40px;
+margin: 100px;
+}
+
+.listDiv{
+    height: 300px;
+    width: 300px;
+    background-color: #eee;
+    margin-left: 895px;
+    margin-top: -320px;
+}
+
+ol{
+    list-style-type: decimal;
+}
