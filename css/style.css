@@ -12,9 +12,11 @@ header{
     top: 0;
     background-color: #6d8adbc7;
     text-align: center;
+    padding-top: 30px;
 }
 h1{
     font-size: 46px;
+    color: white;
 }
 
 h2{
@@ -41,4 +43,13 @@ margin: 100px;
 
 ol{
     list-style-type: decimal;
+}
+
+input{
+    margin-top: 16px;
+    margin-bottom: 16px;
+    margin-left: 100px;
+}
+label{
+    margin-left: 100px;
 }
